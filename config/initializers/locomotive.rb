@@ -61,7 +61,7 @@ Locomotive.configure do |config|
   
   config.hosting = {
     :target     => :heroku,
-    :api_key    => '212a81943f7c9c3329096790d44b6217',
+    :api_key    => 'bf1cd1c886f99e1b705e22027c1ca4fca8e4ac74',
     :app_name   => 'bmwmoto'
   }
   
