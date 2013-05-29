@@ -6,6 +6,7 @@ require "action_controller/railtie"
 require "action_mailer/railtie"
 require "active_resource/railtie"
 require "sprockets/railtie"
+require 'rack/mobile-detect'
 # require "rails/test_unit/railtie"
 
 if defined?(Bundler)
@@ -61,5 +62,7 @@ module Bmwmoto
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+    
+    config.middleware.use Rack::MobileDetect, :redirect_to => 'http://shopbmwmotorcyclesofutah.com/m_Default.asp'
   end
 end

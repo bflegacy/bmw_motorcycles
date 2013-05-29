@@ -5,7 +5,7 @@ gem 'rails', '3.2.11'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-
+gem 'bson_ext'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -42,4 +42,5 @@ gem 'compass-rails', '~> 1.0.0.rc.3', :group => 'assets'
 
 gem 'locomotive-heroku', :require => 'locomotive/heroku'
 gem 'thin', :group => 'production'
+gem 'rack-mobile-detect'
 
