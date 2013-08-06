@@ -9,7 +9,6 @@
  * A simple demo repository of links.
  */
 
-
 define(
 [ 'aloha', 'aloha/jquery' ],
 function ( Aloha, jQuery ) {

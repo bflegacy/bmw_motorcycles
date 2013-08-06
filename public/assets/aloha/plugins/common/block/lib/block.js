@@ -11,7 +11,6 @@
  * @name block.block
  * @namespace block/block
  */
-
 define(['aloha', 'aloha/jquery', 'block/blockmanager', 'aloha/observable', 'aloha/floatingmenu'],
 function(Aloha, jQuery, BlockManager, Observable, FloatingMenu) {
 	

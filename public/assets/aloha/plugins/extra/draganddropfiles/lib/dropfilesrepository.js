@@ -2,7 +2,6 @@
  * Repository
  * Copyright (c) 2010 Nicolas Karageuzian - http://nka.me
  */
-
 define([	
 	'aloha/jquery',
 	'aloha/repository',

@@ -8,7 +8,6 @@
  * Contributing: http://tinymce.moxiecode.com/contributing
  */
 
-
 (function() {
 	var each = tinymce.each, Event = tinymce.dom.Event, bookmark;
 

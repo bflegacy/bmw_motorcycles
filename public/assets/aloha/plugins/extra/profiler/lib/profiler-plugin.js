@@ -14,7 +14,6 @@
  *		Aloha.Profiler.profileAlohaComponent('Selection._updateSelection')
  */
 
-
 window.define( [
 	'aloha/core',
 	'aloha/plugin',

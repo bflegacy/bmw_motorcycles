@@ -19,7 +19,6 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-
 (function () {
 	/**
 	 * This requirejs module loader loads jquery plugins and wraps them 

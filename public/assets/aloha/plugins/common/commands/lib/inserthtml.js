@@ -5,7 +5,6 @@
 * Licensed unter the terms of http://www.aloha-editor.com/license.html
 */
 
-
 define(
 ['aloha/core', 'aloha/jquery', 'aloha/command', 'aloha/selection', 'util/dom', 'aloha/contenthandlermanager', 'aloha/console'],
 function(Aloha, jQuery, command, selection, dom, ContentHandlerManager, console) {

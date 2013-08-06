@@ -10,7 +10,6 @@
  * Create the Repositories object. Namespace for Repositories
  * @hide
  */
-
 if ( !GENTICS.Aloha.Repositories ) GENTICS.Aloha.Repositories = {};
 
 /**

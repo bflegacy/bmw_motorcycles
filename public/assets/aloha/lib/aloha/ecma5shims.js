@@ -11,7 +11,6 @@
  *       note of: https://github.com/alohaeditor/Aloha-Editor/wiki/Commit-Checklist .
  */
 
-
 define([], function(){
   
 

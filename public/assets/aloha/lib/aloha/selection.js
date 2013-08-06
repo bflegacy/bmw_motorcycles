@@ -19,7 +19,6 @@
 */
 
 
-
 define(
 [ 'aloha/core', 'aloha/jquery', 'aloha/floatingmenu', 'util/class', 'util/range', 'aloha/rangy-core' ],
 function(Aloha, jQuery, FloatingMenu, Class, Range) {

@@ -11,7 +11,6 @@
  * an use this value to choose which of the jgrid_* objects, Aloha.jQuery.jgrid
  * should point to
  */
-
 define( [
 	'aloha/jquery',
 	'i18n!browser/nls/i18n',

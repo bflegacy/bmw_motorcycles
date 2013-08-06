@@ -5,7 +5,6 @@
 * Licensed unter the terms of http://www.aloha-editor.com/license.html
 */
 
-
 define(['aloha', 'aloha/jquery', 'aloha/floatingmenu', 'aloha/observable', 'aloha/registry'],
 function(Aloha, jQuery, FloatingMenu, Observable, Registry) {
 	

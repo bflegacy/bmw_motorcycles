@@ -21,7 +21,6 @@
  *			ie: selectRow(0) and selectColumn(0), should be zero indexed
  */
 
-
 define( [
 	'aloha',
 	'aloha/jquery',

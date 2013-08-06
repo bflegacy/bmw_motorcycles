@@ -18,7 +18,6 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-
 define('aloha/ext',[], function() {
 	
 	// Ext seems to have an onClick handler that uses

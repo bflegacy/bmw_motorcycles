@@ -4,7 +4,6 @@
 
 /*jslint browser:true, on:true, sub:true */
 
-
 (function (doc) {
 
 

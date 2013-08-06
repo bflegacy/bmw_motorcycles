@@ -4,7 +4,6 @@
 * aloha-sales@gentics.com
 * Licensed unter the terms of http://www.aloha-editor.com/license.html
 */
-
 define(
 ['aloha/plugin', 'aloha/floatingmenu', 'i18n!metaview/nls/i18n', 'i18n!aloha/nls/i18n', 'aloha/jquery', 'css!metaview/css/metaview.css'],
 function(Plugin, FloatingMenu, i18n, i18nCore, jQuery) {

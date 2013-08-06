@@ -7,7 +7,6 @@
  * Version: 1.2.1
  * Build date: 8 October 2011
  */
-
 define( 'aloha/rangy-core', [], function(){} );
 var rangy = (function() {
 

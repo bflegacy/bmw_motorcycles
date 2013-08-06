@@ -5,7 +5,6 @@
 * Licensed unter the terms of http://www.aloha-editor.com/license.html
 */
 
-
 define(
 ['aloha', 'aloha/jquery', 'aloha/plugin', 'aloha/floatingmenu', 'i18n!list/nls/i18n', 'i18n!aloha/nls/i18n', 'aloha/engine'],
 function(Aloha, jQuery, Plugin, FloatingMenu, i18n, i18nCore, Engine) {

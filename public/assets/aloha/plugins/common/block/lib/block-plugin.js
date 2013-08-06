@@ -9,7 +9,6 @@
  * @name block
  * @namespace Block plugin
  */
-
 define([
     'aloha',
 	'aloha/plugin',

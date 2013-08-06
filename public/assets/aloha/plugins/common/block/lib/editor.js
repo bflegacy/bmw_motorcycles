@@ -9,7 +9,6 @@
  * @name block.editor
  * @namespace Block attribute editors
  */
-
 define(['aloha/jquery', 'aloha/observable'],
 function(jQuery, Observable) {
 	

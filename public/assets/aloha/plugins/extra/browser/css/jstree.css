@@ -4,7 +4,6 @@
  * Supported plugins: ui (hovered, clicked), checkbox, contextmenu, search
  */
 
-
 .jstree li a {
 	display: inline-block;
 	padding: 4px;

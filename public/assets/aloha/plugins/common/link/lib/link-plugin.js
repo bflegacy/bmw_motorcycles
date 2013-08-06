@@ -16,7 +16,6 @@
  *       sidebar panel be a selection box rather than radio buttons.
  */
 
-
 define( [
 	'aloha',
 	'aloha/plugin',

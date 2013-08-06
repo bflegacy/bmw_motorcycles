@@ -18,7 +18,6 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-
 define(
 [ 'aloha/core', 'aloha/selection', 'aloha/jquery', 'aloha/console' ],
 function( Aloha, Selection, jQuery, console ) {

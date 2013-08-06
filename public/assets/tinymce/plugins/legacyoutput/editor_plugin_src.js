@@ -14,7 +14,6 @@
  * not apart of the newer specifications for HTML and XHTML.
  */
 
-
 (function(tinymce) {
 	// Override inline_styles setting to force TinyMCE to produce deprecated contents
 	tinymce.onAddEditor.addToTop(function(tinymce, editor) {

@@ -6,7 +6,6 @@
 * Uses jquery-oEmbed
 * Made by Thomas LÃ©tÃ© for Aloha Editor
 */
-
 define(
 ['aloha', 'aloha/jquery', 'aloha/contenthandlermanager'],
 function(Aloha, jQuery, ContentHandlerManager) {

@@ -4,7 +4,6 @@
  * Copyright 2010-2011, Vasil Dinkov, http://vadikom.com/
  */
 
-
 (function($) {
 
 	var tips = [],

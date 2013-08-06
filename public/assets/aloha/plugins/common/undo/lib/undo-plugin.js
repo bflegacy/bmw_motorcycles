@@ -5,7 +5,6 @@
 * Licensed unter the terms of http://www.aloha-editor.com/license.html
 */
 
-
 define(
 ['aloha', 'aloha/jquery', 'aloha/plugin', 'undo/vendor/undo', 'undo/vendor/diff_match_patch_uncompressed'],
 function( Aloha, jQuery, Plugin) {

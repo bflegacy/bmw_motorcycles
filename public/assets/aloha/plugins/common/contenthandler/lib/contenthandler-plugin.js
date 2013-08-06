@@ -9,7 +9,6 @@
  * @name contenthandler
  * @namespace Content handler plugin
  */
-
 define( [
 	'aloha',
 	'aloha/plugin',

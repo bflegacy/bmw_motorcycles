@@ -23,7 +23,6 @@
  *		  - Make overlayPage setting settable from external config
  */
 
-
 define( [
     'aloha/core',
 	'aloha/jquery',

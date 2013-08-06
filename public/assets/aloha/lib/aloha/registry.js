@@ -9,7 +9,6 @@
  * TODO: document that it also contains Observable.
  *
  */
-
 define(
 ['aloha/jquery', 'aloha/observable'],
 function(jQuery, Observable) {

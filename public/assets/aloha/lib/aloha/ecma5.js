@@ -192,4 +192,3 @@ if (!('getComputedStyle' in window)) {
 		return null;
 	}
 }
-;

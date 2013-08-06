@@ -30,7 +30,6 @@
  *
  * todo: think about if using order plugin or priority config can help us here
  */
-
 define( [
 	
 	'aloha/jquery',

@@ -6,7 +6,6 @@
  * Copyright (c) 2011 JÃ¶rn Zaefferer
  * MIT licensed.
  */
-
 (function() {
 
 // based on Backbone.js' inherits	

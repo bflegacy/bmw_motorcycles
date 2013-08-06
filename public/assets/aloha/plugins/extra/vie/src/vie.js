@@ -5,7 +5,6 @@
 * Licensed unter the terms of https://github.com/bergie/VIE/raw/master/LICENSE
 */
 
-
 document.write('<script type="text/javascript" src="' + GENTICS_Aloha_base + 'plugins/eu.iksproject.VIE/deps/underscore-min.js"></script>');
 document.write('<script type="text/javascript" src="' + GENTICS_Aloha_base + 'plugins/eu.iksproject.VIE/deps/backbone-min.js"></script>');
 document.write('<script type="text/javascript" src="' + GENTICS_Aloha_base + 'plugins/eu.iksproject.VIE/deps/vie-containermanager.js"></script>');

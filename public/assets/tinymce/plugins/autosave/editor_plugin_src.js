@@ -43,7 +43,6 @@
  * TinyMCE editor instance is attached to.
  */
 
-
 (function(tinymce) {
 	// Setup constants to help the compressor to reduce script size
 	var PLUGIN_NAME = 'autosave',

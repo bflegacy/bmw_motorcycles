@@ -7,7 +7,6 @@
 /**
  * Provides public utility methods to convert DOM nodes to XHTML.
  */
-
 define(
 ['aloha', 'aloha/jquery', 'aloha/console'],
 function( Aloha, $, console) {

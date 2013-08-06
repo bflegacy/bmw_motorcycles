@@ -7,7 +7,6 @@
 /*global require: false, define: false, window: false, document: false,
   setTimeout: false */
 
-
 (function () {
     //Sadly necessary browser inference due to differences in the way
     //that browsers load and execute dynamically inserted javascript

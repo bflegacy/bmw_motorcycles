@@ -18,7 +18,6 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-
 define(
 ['aloha/core', 'util/class', 'aloha/jquery'],
 function(Aloha, Class, jQuery ) {

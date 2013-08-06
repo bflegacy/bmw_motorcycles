@@ -14,7 +14,6 @@
  * before being copied into the active editable, at the current range.
  */
 
-
 define(
 [ 'aloha/core', 'aloha/plugin', 'aloha/jquery', 'aloha/command',
   'aloha/console' ],

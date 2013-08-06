@@ -10,7 +10,6 @@
  * simulate lags when querying repositories.
  */
 
-
 define(
 [ 'aloha', 'aloha/jquery' ],
 function ( Aloha, jQuery ) {

@@ -20,7 +20,6 @@
  * SOFTWARE.
  */
 
-
 function Sanitize(){
   var i, e, options;
   options = arguments[0] || {}
@@ -266,4 +265,3 @@ Sanitize.prototype.clean_node = function(container) {
   return fragment;
   
 }
-;

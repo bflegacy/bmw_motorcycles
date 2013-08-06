@@ -18,7 +18,6 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-
 define( [ 'aloha/core', 'aloha/jquery', 'aloha/ext', 'i18n!aloha/nls/i18n', 'aloha/ui',
   'aloha/repositorymanager', 'aloha/selection', 'aloha/ext-alohaproxy',
   'aloha/ext-alohareader'

@@ -4,7 +4,6 @@
 * aloha-sales@gentics.com
 * Licensed unter the terms of http://www.aloha-editor.com/license.html
 */
-
 define(
 	['aloha', 
 	'aloha/jquery', 
@@ -238,4 +237,3 @@ function( Aloha, jQuery, Plugin, FloatingMenu, i18n, i18nCore ) {
 
 });
 // vim: noexpandtab
-;

@@ -8,7 +8,6 @@
   jQuery: false, clearInterval: false, setInterval: false, self: false,
   setTimeout: false, opera: false */
 
-
 var requirejs, require, define;
 (function () {
     //Change this version number for each release.

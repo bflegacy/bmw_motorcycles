@@ -13,7 +13,6 @@
  * must be a (OL or a UL) list element.
  */
 
-
 define( [
 	'aloha',
 	'aloha/jquery',

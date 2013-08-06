@@ -6,7 +6,6 @@
 */
 
 
-
 define(
 ['aloha/command', './inserthtml'],
 function( command, commands ) {
